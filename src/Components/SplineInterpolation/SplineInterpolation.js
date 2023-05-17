@@ -1,7 +1,10 @@
 import React from "react";
 
 const SplineInterpolation = () => {
-  return <div>SplineInterpolation</div>;
+  return <div>
+    <p>Cubic spline formula is </p>
+    
+  </div>;
 };
 
 export default SplineInterpolation;
